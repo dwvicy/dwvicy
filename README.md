@@ -20,11 +20,14 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwvicy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on a MERN Stack Web App and relavant opensource contributions.
+- 🔭 I’m currently working on a Flutter App, MERN Stack Web App and relavant opensource contributions.
 - 🌱 I’m currently learning Generative Adverserial Networks & Deep Reinforcement Learning.
-- 🤔 I’m looking for help with Cloud Computing & DevOps.
+- 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Deep Learning & Flutter App Development!
 - 📫 How to reach me: You can't possibly reach Mars.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: How about no?
+<br>
+
+![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic) <br>
 
