@@ -29,5 +29,5 @@
 - ⚡ Fun fact: How about no?
 <br>
 
-![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic) <br>
+![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic&label=Stalker+Alert) <br>
 
