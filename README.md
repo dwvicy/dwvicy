@@ -20,7 +20,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwvicy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on a Flutter App, MERN Stack Web App and relavant opensource contributions.
+- 🔭 I’m currently working on a Deep Learning Research paper, Flutter App, MERN Stack Web App and relavant opensource contributions. (Ooof too much stuff ;_; kthxbye)
 - 🌱 I’m currently learning Generative Adverserial Networks & Deep Reinforcement Learning.
 - 🤔 I’m looking for help with Cloud Computing.
 - 💬 Ask me about Deep Learning & Flutter App Development!
