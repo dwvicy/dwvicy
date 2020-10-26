@@ -4,7 +4,7 @@
   <img width="750" height="450" src="https://github.com/dwvicy/dwvicy/blob/master/the%20matrix.gif">
   -->
 
- [![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=dwvicy&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ [![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=dwvicy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
