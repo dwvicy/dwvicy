@@ -15,6 +15,6 @@
 | --- | ---|---|---|---|---|---|---|---|---|---|---|
 
 ### 🍕 places you can find me
-<a href="https://linkedin.com/in/dwvicy" target="blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/dwivivivi"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>
+<a href="https://linkedin.com/in/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/dwivivivi" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>
 
 ![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic&label=Stalker+Alert) <br>
