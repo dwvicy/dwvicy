@@ -1,5 +1,5 @@
 
-# 🌸 hello, vaishnavi here aka dwvicy (dwi-chi)
+### 🌸 hello, vaishnavi here aka dwvicy (dwi-chi)
 ![gh-readme](https://user-images.githubusercontent.com/29779226/117459418-011c7080-af69-11eb-9b9f-7ea294387259.png)
 
 <h4 align="left"> 🌸 languages and tools i've worked with</h3>
