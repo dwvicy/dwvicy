@@ -7,7 +7,7 @@
 - Currently a [GitHub Campus Expert](https://githubcampus.expert/dwvicy/).
 - Handling product strategy at [Bottle Co.](https://bottlehq.com).
 - Interning as a <b>Machine Learning Intern</b> and Developer Advocate at [NimbleBox.ai](https://nimblebox.ai).
-- Designing & Building innovative personal projects.
+- Designing & Building innovative personal and freelancing projects.
 
 <!-- ## streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dwvicy&theme=dark)](https://git.io/streak-stats) &nbsp;  -->
