@@ -2,12 +2,21 @@
 ![github (1)](https://user-images.githubusercontent.com/29779226/126047738-675270d5-2038-4c69-88fc-b3df36248abe.png)
 
 ## things i do
-- Writing a weekly newsletter called [michispotlight](https://michispotlight.substack.com) helping students navigate their career in tech.
-- Hosting a weekly podcast called [Ideas in a Bottle](https://anchor.fm/bottle) to have candid conversations with innovative startup folks.
-- Currently a [GitHub Campus Expert](https://githubcampus.expert/dwvicy/).
-- Handling product strategy at [Bottle Co.](https://bottlehq.com).
-- Interning as a <b>Machine Learning Intern</b> and Developer Advocate at [NimbleBox.ai](https://nimblebox.ai).
-- Designing & Building innovative personal and freelancing projects.
+
+* writing a weekly newsletter called [michispotlight](https://michispotlight.substack.com) helping students navigate their career in tech.
+* hosting a weekly podcast called <b><span style="color:#6FA888;">[ideas in a bottle](https://anchor.fm/bottle)</b></span> to have candid conversations with innovative startup folks.
+* currently a [GitHub Campus Expert](https://githubcampus.expert/dwvicy/). here's how [you can become one too](https://education.github.com/experts).
+* handling product strategy at [Bottle Co.](https://bottlehq.com)
+* interning as a <b>machine learning intern</b> and developer advocate at [NimbleBox.ai](https://nimblebox.ai).
+* designing & building innovative personal and freelancing projects.
+
+
+## projects i'm working on
+- [poppity](https://github.com/dwvicy/poppity): my portfolio website. optimizing it to make it more powerful.
+
+## things i did previously
+- used to be the [Google DSC lead](https://developers.google.com/community/dsc/leads) at RAIT [@dscrait](https://github.com/dscrait).
+
 
 <!-- ## streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dwvicy&theme=dark)](https://git.io/streak-stats) &nbsp;  -->
