@@ -6,8 +6,6 @@
 * writing a weekly newsletter called [michispotlight](https://michispotlight.substack.com) helping students navigate their career in tech.
 * hosting a weekly podcast called <b><span style="color:#6FA888;">[ideas in a bottle](https://anchor.fm/bottle)</b></span> to have candid conversations with innovative startup folks.
 * currently a [GitHub Campus Expert](https://githubcampus.expert/dwvicy/). here's how [you can become one too](https://education.github.com/experts).
-* handling product strategy at [Bottle Co.](https://bottlehq.com)
-* interning as a <b>machine learning intern</b> and developer advocate at [NimbleBox.ai](https://nimblebox.ai).
 * designing & building innovative personal and freelancing projects.
 
 
@@ -16,7 +14,8 @@
 
 ## things i did previously
 - used to be the [Google DSC lead](https://developers.google.com/community/dsc/leads) at RAIT [@dscrait](https://github.com/dscrait).
-
+* handled product strategy at [Bottle Co.](https://bottlehq.com)
+* interned as a <b>machine learning intern</b> and developer advocate at [NimbleBox.ai](https://nimblebox.ai).
 
 <!-- ## streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dwvicy&theme=dark)](https://git.io/streak-stats) &nbsp;  -->
