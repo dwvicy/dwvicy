@@ -4,7 +4,10 @@
 ## things i do
 
 * developer advocate at [scaler academy](https://discord.gg/scaler)
+* [figma community advocate](https://figma.com) at friends of figma, mumbai
 * writing a weekly newsletter called [michispotlight](https://michispotlight.substack.com) helping students navigate their career in tech.
+* building a community: [michispotlight discord](https://discord.gg/bxyPE5uH5R)
+* i've youtube channel too [michispotlight youtube](https://youtube.com/c/michispotlight)
 * hosting a weekly podcast called <b><span style="color:#6FA888;">[ideas in a bottle](https://anchor.fm/bottle)</b></span> to have candid conversations with innovative startup folks.
 * currently a [GitHub Campus Expert](https://githubcampus.expert/dwvicy/). here's how [you can become one too](https://education.github.com/experts).
 * designing & building innovative personal and freelancing projects.
