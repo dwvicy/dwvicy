@@ -15,6 +15,7 @@
 
 ## projects i'm working on
 - [poppity](https://github.com/dwvicy/poppity): my portfolio website. optimizing it to make it more powerful.
+- [cestladwvicy](https://github.com/dwvicy/cestladwvicy): my comprehensive ux portfolio. [check it out here](https://cestladwvicy.vercel.app)
 
 ## things i did previously
 * used to be the [Google DSC lead](https://developers.google.com/community/dsc/leads) at RAIT [@dscrait](https://github.com/dscrait).
