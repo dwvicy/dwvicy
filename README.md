@@ -3,6 +3,7 @@
 
 ## things i do
 
+* graduate teaching assistant in hci and ux prototyping at ut austin
 * [figma community advocate](https://figma.com) at friends of figma, austin, tx
 * i have a show on twitch called ```coffee br with dwvicy```
 * writing a weekly newsletter called [michispotlight](https://michispotlight.substack.com) helping students navigate their career in tech.
@@ -23,6 +24,7 @@
 * handled product strategy at [Bottle Co.](https://bottlehq.com)
 * interned as a <b>machine learning intern</b> and developer advocate at [NimbleBox.ai](https://nimblebox.ai).
 * developer advocate at [scaler academy](https://discord.gg/scaler)
+* community manager and design at dYdX Foundation
 
 
 <!-- ## streak 
