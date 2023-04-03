@@ -31,6 +31,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dwvicy&theme=dark)](https://git.io/streak-stats) &nbsp;  -->
 
 ## connect with me 
-<a href="https://linkedin.com/in/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/dwivivivi" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>
+<a href="https://linkedin.com/in/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a>
 
 ![](https://komarev.com/ghpvc/?username=dwvicy&style=plastic&label=Stalker+Alert) <br>
